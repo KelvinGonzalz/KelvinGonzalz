@@ -1,12 +1,27 @@
 ### Hi there 👋
 
 
-## 🌎 Socials:
+## 𝐊𝐞𝐥𝐯𝐢𝐧 𝐆𝐨𝐧𝐳á𝐥𝐞𝐳 - 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭
+
+🌱 I’m addicted to learning and growing every day
+
+🔭 Currently seeking opportunities in the field of Data Science.
+
+👨‍💼💻👩‍💼   Interested in collaborating on projects related to data analysis 
+
+💬 Ask me about anything related to Data Science, I'd be happy to help :smile:
+
+🧗 I'm always looking for new opportunities to learn and grow.
+
+
+
+## 🌎 𝐒𝐨𝐜𝐢𝐚𝐥𝐬:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kelvingonzalez_77)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kelvinRGS777) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dataWhisper)
 
-## 🧑‍💻 Tech Stack:
+## 🧑‍💻 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤:
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
