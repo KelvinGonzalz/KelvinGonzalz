@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 ## 𝐊𝐞𝐥𝐯𝐢𝐧 𝐆𝐨𝐧𝐳á𝐥𝐞𝐳 - 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭
 
@@ -12,7 +10,6 @@
 💬 Ask me about anything related to Data Science, I'd be happy to help :smile:
 
 🧗 I'm always looking for new opportunities to learn and grow.
-
 
 
 ## 🌎 𝐒𝐨𝐜𝐢𝐚𝐥𝐬:
